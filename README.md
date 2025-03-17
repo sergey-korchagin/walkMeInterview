@@ -14,5 +14,6 @@ Used compose navigation for navigation between screens
 Implemented simple error handling in view model and view by using Result in repo
 Used ArticleBridge in WebView what shows "Hi WalkMe" text and AlertDialog when loaded view
 Not configured .gitignore file
+Attached mp4 file with app flow video 
 For any questions please contact me 0544709905 or sergey.korchagin.il@gmail.com
 Thank you
