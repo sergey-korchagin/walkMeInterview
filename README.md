@@ -19,7 +19,7 @@
 - **Error handling**:
     - Used `Result` in the repository.
     - Basic error handling is present in both the ViewModel and UI.
-- **WebView Enhancements**:
+- **WebView**:
     - Implemented **ArticleBridge** in WebView.
     - Displays `"Hi WalkMe"` text inside the WebView.
     - Shows an **AlertDialog** when the WebView loads.
